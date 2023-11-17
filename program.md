@@ -42,7 +42,7 @@ graph TD;
     Y --> Z;
     Z --> AA[End];
 
-    click A "./program/#phase-1-weeks-1-4-building-foundation"
+    click A "./program.md/#phase-1-weeks-1-4-building-foundation"
 
 ```
 ### Phase 1: Weeks 1-4 (Building Foundation)
