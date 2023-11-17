@@ -43,6 +43,7 @@ graph TD;
     Z --> AA[End];
 
     click A "https://github.com/prebensolheim/one-arm-chinup-challenge/blob/54e9d247445bbb7c864322e4a3b024ce0a19ef92/program.md#phase-1-weeks-1-4-building-foundation"
+    click I "https://github.com/prebensolheim/one-arm-chinup-challenge/blob/main/program.md#phase-2-weeks-5-12-strength-development"
 
 ```
 ### Phase 1: Weeks 1-4 (Building Foundation)
