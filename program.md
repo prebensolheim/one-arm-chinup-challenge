@@ -1,5 +1,50 @@
 Specific one-year plan to work towards achieving a one-arm chin-up, starting from November 17, 2023. This plan is divided into phases, each focusing on different aspects of strength and skill development:
+```mermaid
+graph TD;
+    A[Start] --> B[Phase 1: Building Foundation];
+    B --> C[Chin-Up Progression];
+    B --> D[Assisted One-Arm Chin-Up Holds];
+    B --> E[Rows];
+    B --> F[Deadlifts];
+    B --> G[Planks];
+    C --> H[Eccentric One-Arm Chin-Up];
+    C --> I[Partial Reps];
+    D --> I;
+    E --> I;
+    F --> I;
+    G --> I;
+    I --> J[Phase 2: Strength Development];
+    J --> K[Chin-Up Progression];
+    J --> L[Eccentric One-Arm Chin-Up];
+    J --> M[Assisted One-Arm Chin-Up Holds];
+    J --> N[Rows];
+    J --> O[Deadlifts];
+    J --> P[Planks];
+    L --> M;
+    N --> M;
+    O --> M;
+    P --> M;
+    M --> Q[Phase 3: Skill Refinement];
+    Q --> R[Eccentric One-Arm Chin-Up];
+    Q --> S[One-Arm Chin-Up Holds];
+    Q --> T[Chin-Up Variations];
+    Q --> U[Strength Building];
+    R --> S;
+    S --> T;
+    T --> U;
+    U --> V[Phase 4: Refinement and Mastery];
+    V --> W[One-Arm Chin-Up Negatives];
+    V --> X[One-Arm Chin-Up Holds];
+    V --> Y[One-Arm Chin-Up Attempts];
+    V --> Z[Maintain Strength Gains];
+    W --> X;
+    X --> Y;
+    Y --> Z;
+    Z --> AA[End];
 
+    click A "./#Phase 1: Weeks 1-4 (Building Foundation)"
+
+```
 ### Phase 1: Weeks 1-4 (Building Foundation)
 Goals:
 - Strengthen the upper body and core.
